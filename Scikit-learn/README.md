@@ -3,6 +3,8 @@
 * Dataset used same as used in the course
 * Following have been practised
     * Cleaning-Transforming-Reducing data: Working with NaN data
+    * Selecting a model
+    * Model-Predict-Evaluate(Classification)
 
 ### Will keep updating the repo as I progress
 ### Feel free to fork and practise 
