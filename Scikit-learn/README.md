@@ -5,6 +5,7 @@
     * Cleaning-Transforming-Reducing data: Working with NaN data
     * Selecting a model
     * Model-Predict-Evaluate(Classification)
+    * Model-Predict-Evaluate(Regression)
 
 ### Will keep updating the repo as I progress
 ### Feel free to fork and practise 
