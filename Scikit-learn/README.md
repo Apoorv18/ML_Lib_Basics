@@ -6,6 +6,7 @@
     * Selecting a model
     * Model-Predict-Evaluate(Classification)
     * Model-Predict-Evaluate(Regression)
+    * Scoring Parameter
 
 ### Will keep updating the repo as I progress
 ### Feel free to fork and practise 
