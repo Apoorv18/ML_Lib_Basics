@@ -7,6 +7,7 @@
     * Model-Predict-Evaluate(Classification)
     * Model-Predict-Evaluate(Regression)
     * Scoring Parameter
+    * Improving a model - Hyperparameter Tuning
 
 ### Will keep updating the repo as I progress
 ### Feel free to fork and practise 
