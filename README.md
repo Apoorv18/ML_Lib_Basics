@@ -6,5 +6,7 @@ Refresher for core libraries used in ML and Data Science by following awesome ZT
     * Numpy
     * Matplotlib
     * Scikit-learn
+    
+### Will keep updating the repo as I progress
 ### Happy learning :relaxed: 
 ### Feel free to fork and practice
