@@ -6,6 +6,7 @@ Refresher for core libraries used in ML and Data Science by following awesome ZT
     * Numpy
     * Matplotlib
     * Scikit-learn
+* Sample heart disease project from the ZTM [Udemy course](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
     
 ### Will keep updating the repo as I progress
 ### Happy learning :relaxed: 
